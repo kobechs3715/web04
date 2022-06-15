@@ -1,0 +1,17 @@
+#text-area{
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 5px;
+    resize: none;
+    font-family: serif;
+}
+
+#text-length{
+    color: #999;
+    font-size: 13px;
+}
+
+#text_length.out{
+    color: #C00;
+}
